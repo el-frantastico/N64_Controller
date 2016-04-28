@@ -1,0 +1,8 @@
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\bin\Release\N64ControllerProject.exe.config
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\bin\Release\N64ControllerProject.exe
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\bin\Release\N64ControllerProject.pdb
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Release\N64ControllerProject.N64GUI.resources
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Release\N64ControllerProject.Properties.Resources.resources
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Release\N64Controller.csproj.GenerateResource.Cache
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Release\N64ControllerProject.exe
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Release\N64ControllerProject.pdb

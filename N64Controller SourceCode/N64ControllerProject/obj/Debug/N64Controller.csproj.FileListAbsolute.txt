@@ -1,0 +1,14 @@
+C:\Users\Francisco Martin\Documents\Visual Studio 2015\Projects\N64Controller\ToolbarTest\bin\Debug\ToolbarTest.exe.config
+C:\Users\Francisco Martin\Documents\Visual Studio 2015\Projects\N64Controller\ToolbarTest\obj\Debug\ToolbarTest.exe
+C:\Users\Francisco Martin\Documents\Visual Studio 2015\Projects\N64Controller\ToolbarTest\obj\Debug\ToolbarTest.pdb
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\bin\Debug\ToolbarTest.exe.config
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Debug\ToolbarTest.exe
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Debug\ToolbarTest.pdb
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\bin\Debug\ToolbarTest.exe
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\bin\Debug\ToolbarTest.pdb
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Debug\ToolbarTest.Properties.Resources.resources
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Debug\N64Controller.csproj.GenerateResource.Cache
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Debug\N64Controller.csprojResolveAssemblyReference.cache
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Debug\N64ControllerProject.N64GUI.resources
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\bin\Debug\N64ControllerProject.exe.config
+C:\Users\VR-Machine\Desktop\N64Controller\ToolbarTest\obj\Debug\N64ControllerProject.Properties.Resources.resources
